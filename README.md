@@ -12,7 +12,7 @@ I'm Raj Shah, a versatile professional with a passion for both data science and 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rs_rajshah/)
 
-[![leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/https://leetcode.com/rsrajshah/)
+[![leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rsrajshah/)
 
 
 ## 🛠 Skills
